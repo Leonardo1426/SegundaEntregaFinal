@@ -1,0 +1,99 @@
+body {
+  background-color: #cdcd25; }
+  body header nav div a img.logoScorp {
+    width: 45px; }
+  body header nav div div ul li a.tienda {
+    font-weight: bolder;
+    font-size: 1.3rem; }
+  body header nav div div ul li a.novedades {
+    font-weight: bolder;
+    font-size: 1.3rem; }
+  body header nav div div ul li a.compraFacil {
+    font-weight: bolder;
+    font-size: 1.3rem; }
+  body header nav div div ul li a.nosotros {
+    font-weight: bolder;
+    font-size: 1.3rem; }
+  body main section div.carruselMaster {
+    display: none; }
+    body main section div.carruselMaster div div.item1 {
+      width: 80rem;
+      margin: 0px 3px 0px 40px; }
+      body main section div.carruselMaster div div.item1 img.elderScrollJpg {
+        border-radius: 20px; }
+    body main section div.carruselMaster div div.item2 {
+      width: 80rem;
+      margin: 0px 3px 0px 40px; }
+      body main section div.carruselMaster div div.item2 img.horizonForbidenJpg {
+        border-radius: 20px; }
+    body main section div.carruselMaster div div.item3 {
+      width: 80rem;
+      margin: 0px 3px 0px 40px; }
+      body main section div.carruselMaster div div.item3 img.spidermanMilesJpg {
+        border-radius: 20px; }
+  body main div div h1.tituloIndex {
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'MuRdOiNk', sans-serif;
+    margin: 15px;
+    font-size: 4rem; }
+  body main div div div.juegosP1 {
+    margin: 20px; }
+    body main div div div.juegosP1 img.mortalKombatImg {
+      border-radius: 6%; }
+    body main div div div.juegosP1 img.gta5Img {
+      border-radius: 6%; }
+    body main div div div.juegosP1 img.fifa22Img {
+      border-radius: 6%; }
+  body main div div div.juegosP2 {
+    margin: 20px; }
+    body main div div div.juegosP2 img.psplusImg {
+      border-radius: 6%; }
+    body main div div div.juegosP2 img.callOfDuty {
+      border-radius: 6%; }
+    body main div div div.juegosP2 img.deathStranding {
+      border-radius: 6%; }
+  body main div div div h2.subTituloIndex {
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    font-family: 'MuRdOiNk', sans-serif;
+    margin: 15px;
+    font-size: 3rem; }
+  body main div div div.vid1 {
+    margin: 4rem; }
+  body main div div div.vid2 {
+    margin: 4rem; }
+  body main div div div h3 {
+    font-weight: bolder;
+    font-size: 2.5rem; }
+  body main div div div p {
+    font-weight: bolder; }
+  body main div div div h4 {
+    font-weight: bolder; }
+  body main div div h3 a i.wspIcon {
+    font-size: 3rem;
+    color: green; }
+  body main footer {
+    text-align: end;
+    font-weight: bold; }
+
+/*media queries*/
+@media screen and (min-width: 600px) {
+  header nav div a.logonavbar:hover {
+    background-color: white; }
+  header nav div div ul li a.tienda:hover {
+    background-color: white; }
+  header nav div div ul li a.novedades:hover {
+    background-color: white; }
+  header nav div div ul li a.compraFacil:hover {
+    background-color: white; }
+  header nav div div ul li a.nosotros:hover {
+    background-color: white; }
+  body main section div.carruselMaster {
+    display: block; } }
+
+
+    .mk11{
+      width: 80%;
+    }
